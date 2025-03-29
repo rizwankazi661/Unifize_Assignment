@@ -58,3 +58,11 @@ This will launch the application in your default web browser.
 ![Larger Screens Preview](https://github.com/user-attachments/assets/7a2a1b75-03f9-48b0-bd11-9fec455475bf)
 
 
+### Tablet Screen Preview
+![Tablet Screen Preview](https://github.com/user-attachments/assets/2f383255-2c37-46ee-97f8-0be7016c5407)
+
+
+### Mobile Screen Preview (Scrollable)
+![Mobile Screen Preview](https://github.com/user-attachments/assets/c875bfff-1a6f-4023-839b-45e068a6c32e)
+
+
