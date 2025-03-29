@@ -5,7 +5,7 @@ A React application demonstrating a responsive table layout with custom date log
 ##  Live Demo  
 
 You can access the hosted application here:  
-🔗 **[Live Application](https://beautiful-arithmetic-18fecb.netlify.app/)**  
+🔗 **[Live Application](https://stunning-fenglisu-21cb88.netlify.app/)**  
 
 ##  Installation  
 
@@ -45,11 +45,12 @@ This will launch the application in your default web browser.
 
 ## 📌 Technical Decisions
 
-- Designed and implemented **`Button`** and **`Avatar`** as reusable components to ensure consistency, enhance maintainability, and eliminate redundant code. 
+- Created **`Button`** and **`Avatar`**  as reusable, modular components to ensure consistency, streamline maintenance, and minimize code duplication across the application
 - Added test cases for respective components.
 - Used `module.css` to scope styles locally to components, preventing global CSS conflicts.
 - Created a **`constants`** file to store all static text in one centralized location, improving maintainability and ensuring consistency across the application.  
 ---
+
 
 ## Application Previews
 
