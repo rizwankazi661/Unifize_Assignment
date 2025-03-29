@@ -1,4 +1,4 @@
-import { useState, useEffect, useMemo } from "react";
+import { useState, useEffect } from "react";
 import dummyData from "../../data/transactions.json";
 import { Transaction } from "../../dataTypes/interfaces/Transaction";
 
@@ -13,15 +13,13 @@ const useTransactions = () => {
     setTransactions(dummyData.transactions);
   }
 
-  const formatDate = useMemo(() => {
-    return (timestamp: number) => {
-      const date = new Date(timestamp * 1000);
-      return date.toLocaleDateString("en-US", {
-        month: "short",
-        day: "numeric",
-      });
-    };
-  }, []);
+  const formatDate = (timestamp: number) => {
+    const date = new Date(timestamp * 1000);
+    return date.toLocaleDateString("en-US", {
+      month: "short",
+      day: "numeric",
+    });
+  };
 
   return { transactions, formatDate };
 };

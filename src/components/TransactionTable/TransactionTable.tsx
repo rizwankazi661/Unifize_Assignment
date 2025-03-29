@@ -7,8 +7,6 @@ import useTransactions from './Transaction.hook';
 function TransactionTable() {
     const { transactions, formatDate } = useTransactions();
 
-    const memoizedTransactions = useMemo(() => transactions, [transactions]);
-
     return (
         <table className={styles.main_container}>
             <thead>
@@ -22,7 +20,7 @@ function TransactionTable() {
                 </tr>
             </thead>
             <tbody>
-                {memoizedTransactions.map((data, index, array) => (
+                {transactions.map((data, index, array) => (
                     <TransactionRow
                         key={index}
                         data={data}
