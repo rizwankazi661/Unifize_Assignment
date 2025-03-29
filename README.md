@@ -43,7 +43,7 @@ This will launch the application in your default web browser.
 
 ---
 
-## 📌 Technical Decisions
+##  Technical Decisions
 
 - Created **`Button`** and **`Avatar`**  as reusable, modular components to ensure consistency, streamline maintenance, and minimize code duplication across the application
 - Added test cases for respective components.
