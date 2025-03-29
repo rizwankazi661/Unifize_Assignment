@@ -39,6 +39,13 @@ Run the following command to start the development server:
 npm start
 ```
 
+### 5. Run Tests  
+To execute the test cases, run:
+
+```bash
+npm run test
+```
+
 This will launch the application in your default web browser. 
 
 ---
