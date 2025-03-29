@@ -4,7 +4,11 @@
       { "date": 1704672000, "isPaymentSuccess": true, "to": "Marketing Expense - Google Ads", "amount": "120.00", "account": "Marketing / Ads", "paymentMethod": "Credit Card", "attachment": false, "type": "CREDIT" },
       { "date": 1704672000, "isPaymentSuccess": false, "to": "Website Development", "amount": "800.00", "account": "IT / Web Services", "paymentMethod": "PayPal", "attachment": true, "type": "CREDIT" },
       { "date": 1704672000, "isPaymentSuccess": true, "to": "Office Stationery Purchase", "amount": "90.00", "account": "Operations / Supplies", "paymentMethod": "Credit Card", "attachment": false, "type": "DEBIT" },
-  
+      { "date": 1704672000, "isPaymentSuccess": true, "to": "Freelancer Payment - UX Designer", "amount": "350.00", "account": "IT / Design", "paymentMethod": "PayPal", "attachment": true, "type": "DEBIT" },
+      { "date": 1704672000, "isPaymentSuccess": true, "to": "Software Subscription - Adobe", "amount": "55.00", "account": "IT / Software", "paymentMethod": "Credit Card", "attachment": false, "type": "DEBIT" },
+      { "date": 1704672000, "isPaymentSuccess": true, "to": "Client Payment - Beta Corp.", "amount": "1,200.00", "account": "Consulting / Income", "paymentMethod": "Bank Transfer", "attachment": true, "type": "CREDIT" },
+      { "date": 1704672000, "isPaymentSuccess": true, "to": "Team Lunch - Restaurant", "amount": "75.00", "account": "Operations / Entertainment", "paymentMethod": "Cash", "attachment": false, "type": "DEBIT" },
+    
       { "date": 1704499200, "isPaymentSuccess": true, "to": "Service Fee from CloudTech", "amount": "300.00", "account": "IT / Cloud Services", "paymentMethod": "Direct Deposit", "attachment": true, "type": "CREDIT" },
       { "date": 1704499200, "isPaymentSuccess": true, "to": "Subscription Payment to SaaS Corp", "amount": "99.99", "account": "Marketing / Tools", "paymentMethod": "Credit Card", "attachment": false, "type": "DEBIT" },
       { "date": 1704499200, "isPaymentSuccess": true, "to": "Office Rent Payment", "amount": "1,200.00", "account": "Operations / Rent", "paymentMethod": "Bank Transfer", "attachment": true, "type": "CREDIT" },
