@@ -1,8 +1,12 @@
+.parent_container {
+  width: 100vw;
+  overflow-x: auto;
+  display: grid;
+  place-items: center;
+}
+
 .main_container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 100%;
+  width: 1100px;
 }
 
 .content {
@@ -45,3 +49,15 @@ hr {
   width: 100%;
   overflow-x: auto;
 }
+
+/* .parent {
+  border: 10px solid purple;
+  overflow-x: auto;
+  width: 100vw;
+}
+
+.main_container {
+  width: 10000px;
+  height: 100vh;
+  background-color: red;
+} */
