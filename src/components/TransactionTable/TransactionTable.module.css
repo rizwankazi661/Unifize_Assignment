@@ -1,0 +1,102 @@
+.main_container {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+thead {
+  border-bottom: 1px solid #e8e8ee;
+}
+
+thead th {
+  color: #70707d;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+}
+
+th {
+  text-align: left;
+  padding: 12px 16px;
+  color: #1e1e2a;
+}
+
+td {
+  font-size: 15px;
+  padding: 8px 16px;
+  border-bottom: 1px solid #e8e8ee;
+  color: #1e1e2a;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 300px;
+}
+
+.toFromContainer,
+.paymentContainer {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  min-width: 0;
+}
+
+.paymentContainer {
+  color: #70707d;
+}
+
+tr:hover .paymentContainer {
+  color: #1e1e2a;
+}
+
+.image {
+  height: 22px;
+  margin-right: 4px;
+}
+
+.toFromText {
+  margin-left: 8px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+
+.failedChip {
+  border: 1px solid #d03275;
+  padding: 3px 8px;
+  margin-left: 8px;
+  font-size: 12px;
+  color: #d03275;
+  border-radius: 4px;
+}
+
+.amount {
+  text-align: right;
+}
+
+.profit {
+  color: #188554;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+tbody tr:hover {
+  background-color: #f7f7f9;
+}
+
+.show {
+  opacity: 1;
+}
+
+.hide {
+  opacity: 0;
+}
+
+tr:hover .hide {
+  opacity: 1;
+}

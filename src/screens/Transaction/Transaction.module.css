@@ -1,0 +1,45 @@
+.main_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 100%;
+  overflow-x: auto;
+}
+
+.content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+header {
+  font-size: 28px;
+  margin: 30px 0;
+  color: #1e1e2a;
+  display: flex;
+  justify-content: space-between;
+}
+
+hr {
+  height: 26px;
+  border: 0;
+  border-right: 1px solid #e8e8ee;
+}
+
+.action_container {
+  display: flex;
+  gap: 16px;
+}
+
+.filters_section {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+  margin: 20px 0;
+}
+
+.table_container {
+  width: 100%;
+  overflow-x: auto;
+}

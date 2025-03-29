@@ -1,0 +1,13 @@
+.main_container {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background-color: #bedcfc;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color: #1e1e2a;
+  text-transform: uppercase;
+  flex-shrink: 0;
+}

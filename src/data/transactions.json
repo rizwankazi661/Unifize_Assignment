@@ -1,0 +1,34 @@
+{
+    "transactions": [
+      { "date": 1704672000, "isPaymentSuccess": true, "to": "Consulting Fee from Alpha Ltd.", "amount": "450.00", "account": "Consulting / Income", "paymentMethod": "Bank Transfer", "attachment": true, "type": "CREDIT" },
+      { "date": 1704672000, "isPaymentSuccess": true, "to": "Marketing Expense - Google Ads", "amount": "120.00", "account": "Marketing / Ads", "paymentMethod": "Credit Card", "attachment": false, "type": "CREDIT" },
+      { "date": 1704672000, "isPaymentSuccess": false, "to": "Website Development", "amount": "800.00", "account": "IT / Web Services", "paymentMethod": "PayPal", "attachment": true, "type": "CREDIT" },
+      { "date": 1704672000, "isPaymentSuccess": true, "to": "Office Stationery Purchase", "amount": "90.00", "account": "Operations / Supplies", "paymentMethod": "Credit Card", "attachment": false, "type": "DEBIT" },
+  
+      { "date": 1704499200, "isPaymentSuccess": true, "to": "Service Fee from CloudTech", "amount": "300.00", "account": "IT / Cloud Services", "paymentMethod": "Direct Deposit", "attachment": true, "type": "CREDIT" },
+      { "date": 1704499200, "isPaymentSuccess": true, "to": "Subscription Payment to SaaS Corp", "amount": "99.99", "account": "Marketing / Tools", "paymentMethod": "Credit Card", "attachment": false, "type": "DEBIT" },
+      { "date": 1704499200, "isPaymentSuccess": true, "to": "Office Rent Payment", "amount": "1,200.00", "account": "Operations / Rent", "paymentMethod": "Bank Transfer", "attachment": true, "type": "CREDIT" },
+      { "date": 1704499200, "isPaymentSuccess": true, "to": "Annual Server Maintenance", "amount": "2,500.00", "account": "IT / Infrastructure", "paymentMethod": "Bank Transfer", "attachment": false, "type": "DEBIT" },
+  
+      { "date": 1704326400, "isPaymentSuccess": true, "to": "Client Refund - Beta Inc.", "amount": "350.00", "account": "Sales / Refunds", "paymentMethod": "PayPal", "attachment": false, "type": "DEBIT" },
+      { "date": 1704326400, "isPaymentSuccess": true, "to": "Payroll for Employees", "amount": "7,500.00", "account": "HR / Salaries", "paymentMethod": "Direct Deposit", "attachment": true, "type": "CREDIT" },
+      { "date": 1704326400, "isPaymentSuccess": true, "to": "Team Lunch Expense", "amount": "250.00", "account": "Operations / Employee Welfare", "paymentMethod": "Credit Card", "attachment": true, "type": "CREDIT" },
+      { "date": 1704326400, "isPaymentSuccess": true, "to": "Project Management Software License", "amount": "200.00", "account": "IT / Software", "paymentMethod": "Invoice Payment", "attachment": false, "type": "DEBIT" },
+  
+      { "date": 1704230400, "isPaymentSuccess": true, "to": "Invoice Payment to ABC Ltd.", "amount": "500.00", "account": "Operations / Supplies", "paymentMethod": "Invoice Payment", "attachment": false, "type": "DEBIT" },
+      { "date": 1704230400, "isPaymentSuccess": true, "to": "Software Licensing Fee", "amount": "350.00", "account": "IT / Software", "paymentMethod": "Credit Card", "attachment": true, "type": "CREDIT" },
+      { "date": 1704230400, "isPaymentSuccess": true, "to": "Purchase of External Hard Drives", "amount": "450.00", "account": "IT / Storage", "paymentMethod": "Bank Transfer", "attachment": true, "type": "CREDIT" },
+      { "date": 1704230400, "isPaymentSuccess": true, "to": "SEO Services Payment", "amount": "600.00", "account": "Marketing / SEO", "paymentMethod": "PayPal", "attachment": false, "type": "DEBIT" },
+  
+      { "date": 1704144000, "isPaymentSuccess": true, "to": "Freelancer Payment - Design Work", "amount": "600.00", "account": "Design / Outsourcing", "paymentMethod": "PayPal", "attachment": false, "type": "DEBIT" },
+      { "date": 1704144000, "isPaymentSuccess": true, "to": "Business Travel Flight Ticket", "amount": "750.00", "account": "Operations / Travel", "paymentMethod": "Credit Card", "attachment": true, "type": "CREDIT" },
+      { "date": 1704144000, "isPaymentSuccess": true, "to": "Security Software Subscription", "amount": "120.00", "account": "IT / Security", "paymentMethod": "Bank Transfer", "attachment": false, "type": "DEBIT" },
+  
+      { "date": 1704067200, "isPaymentSuccess": true, "to": "Payment from Acme Corp", "amount": "200.00", "account": "OPS / Payroll", "paymentMethod": "Request or Invoice", "attachment": true, "type": "CREDIT" },
+      { "date": 1704067200, "isPaymentSuccess": true, "to": "Payment to John Doe", "amount": "150.50", "account": "HR / Salary", "paymentMethod": "Bank Transfer", "attachment": false, "type": "DEBIT" },
+      { "date": 1704067200, "isPaymentSuccess": true, "to": "Refund from XYZ Ltd.", "amount": "75.00", "account": "Sales / Refunds", "paymentMethod": "Credit Card", "attachment": true, "type": "CREDIT" },
+      { "date": 1704067200, "isPaymentSuccess": true, "to": "Conference Ticket - Tech Summit", "amount": "500.00", "account": "Training / Events", "paymentMethod": "Credit Card", "attachment": false, "type": "DEBIT" },
+      { "date": 1704067200, "isPaymentSuccess": true, "to": "New Office Furniture Purchase", "amount": "1,500.00", "account": "Operations / Furniture", "paymentMethod": "Direct Deposit", "attachment": true, "type": "CREDIT" }
+    ]
+  }
+  
