@@ -48,4 +48,9 @@ This will launch the application in your default web browser.
 - Designed and implemented **`Button`** and **`Avatar`** as reusable components to ensure consistency, enhance maintainability, and eliminate redundant code. 
 - Added test cases for respective components.
 - Used `module.css` to scope styles locally to components, preventing global CSS conflicts.
-- Created a **`contacts`** file to store all static text in one centralized location, improving maintainability and ensuring consistency across the application.  
+- Created a **`constants`** file to store all static text in one centralized location, improving maintainability and ensuring consistency across the application.  
+---
+
+## Application Previews
+![Larger Screens Preview](https://github.com/user-attachments/assets/1ed843b5-93c8-4257-aeac-2bf0be217fc4)
+
