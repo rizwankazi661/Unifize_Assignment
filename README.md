@@ -53,6 +53,7 @@ This will launch the application in your default web browser.
 
 ## Application Previews
 
+### Larger Screen Preview
 ![Larger Screens Preview](https://github.com/user-attachments/assets/7a2a1b75-03f9-48b0-bd11-9fec455475bf)
 
 
