@@ -2,7 +2,6 @@ import { ButtonShape } from '../../dataTypes/enums/ButtonShape';
 import { ButtonType } from '../../dataTypes/enums/ButtonType';
 import styles from './Button.module.css';
 
-
 type ButtonProps = {
     title?: string;
     type?: ButtonType;

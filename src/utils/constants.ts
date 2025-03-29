@@ -19,7 +19,7 @@ export const constants = {
       amount: "Amount",
       account: "Account",
       paymentMethod: "Payment Method",
-      attachement: "Attchement",
+      attachement: "Attachment",
     },
   },
 };
