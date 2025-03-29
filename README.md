@@ -41,3 +41,11 @@ npm start
 
 This will launch the application in your default web browser. 
 
+---
+
+## 📌 Technical Decisions
+
+- Designed and implemented **`Button`** and **`Avatar`** as reusable components to ensure consistency, enhance maintainability, and eliminate redundant code. 
+- Added test cases for respective components.
+- Used `module.css` to scope styles locally to components, preventing global CSS conflicts.
+- Created a **`contacts`** file to store all static text in one centralized location, improving maintainability and ensuring consistency across the application.  
